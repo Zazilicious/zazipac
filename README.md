@@ -1,2 +1,2 @@
 # zazipac
-Free and open source pac-man-like written in Python.
+Turned-based Pacman-like game written in Python
